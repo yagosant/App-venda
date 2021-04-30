@@ -68,6 +68,7 @@
     <body>
 
         @include('site.includes._nav')
+        @include('site.includes._footer')
         
        
     </body>
